@@ -1,0 +1,17 @@
+{
+    "name": "rokas/project2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rokas Garmasukis",
+            "email": "rokas.garmasukis@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
